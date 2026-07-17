@@ -24,13 +24,6 @@ A Deep Learning-based Face Mask Detection application built using **TensorFlow**
 - NumPy
 - Pillow
 
-Run the application
-
-```bash
-streamlit run app.py
-
-
-
 
 <img width="1917" height="1022" alt="1" src="https://github.com/user-attachments/assets/e0e69105-ab27-4309-a178-bbc162636211" />
 <img width="1916" height="1017" alt="2" src="https://github.com/user-attachments/assets/484ed134-8a69-42b5-8b15-e7955c92a962" />
