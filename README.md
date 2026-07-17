@@ -1,4 +1,4 @@
-# 😷 Face Mask Detection System
+# Face Mask Detection System
 
 A Deep Learning-based Face Mask Detection application built using **TensorFlow**, **OpenCV**, and **Streamlit**. The application detects whether a person is wearing a face mask from uploaded images or a live webcam feed.
 
