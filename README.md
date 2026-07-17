@@ -29,6 +29,9 @@ Run the application
 ```bash
 streamlit run app.py
 
+
+
+
 <img width="1917" height="1022" alt="1" src="https://github.com/user-attachments/assets/e0e69105-ab27-4309-a178-bbc162636211" />
 <img width="1916" height="1017" alt="2" src="https://github.com/user-attachments/assets/484ed134-8a69-42b5-8b15-e7955c92a962" />
 <img width="1913" height="1035" alt="3" src="https://github.com/user-attachments/assets/5ce8cbbd-730f-4fd5-8b59-227ec5f37d56" />
